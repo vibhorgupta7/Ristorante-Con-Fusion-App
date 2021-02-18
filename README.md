@@ -7,5 +7,5 @@
    * Add a Feedback
    * Provides more information like History, Dishes etc.
 * It has mutliple pages that are linked through HTML.
-* Technology Used: HTML, CSS, Bootstrap 4, JQuery
+* Technology Used: HTML, CSS, Bootstrap 4, JQuery, JavaScript
 
